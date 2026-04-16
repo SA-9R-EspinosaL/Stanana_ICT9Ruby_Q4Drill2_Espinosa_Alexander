@@ -181,7 +181,7 @@
             <div class="col-lg-10 col-xl-9">
                 <div class="heat-card">
                     <div class="heat-header text-white">
-                        <h1>🌡️ Heat Index Checker</h1>
+                        <h1> Heat Index Checker</h1>
                         <p class="mb-0">Calculate how hot it really feels — combining temperature & humidity</p>
                     </div>
 
@@ -194,7 +194,7 @@
                                 </details>
 
                                 <div class="mb-3">
-                                    <label class="form-label-custom mb-1">🌡️ Degree in °C</label>
+                                    <label class="form-label-custom mb-1"> Degree in °C</label>
                                     <input type="number" id="temperatureInput" class="form-control form-control-custom" placeholder="e.g., 28" step="any" value="">
                                 </div>
 
@@ -219,7 +219,7 @@
 
                         <div class="mt-4 pt-3 border-top border-warning">
                             <p class="text-light-emphasis small mb-2">
-                                <strong>ℹ️ About Heat Index:</strong> The heat index (apparent temperature) measures what the human body feels 
+                                <strong> About Heat Index:</strong> The heat index (apparent temperature) measures what the human body feels 
                                 when humidity is combined with actual air temperature. Higher humidity reduces sweat evaporation, 
                                 making it feel hotter. Formula: <code class="text-warning">Heat Index = Temp + (0.33 × Humidity) - 4</code>.
                             </p>
